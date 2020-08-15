@@ -1,2 +1,2 @@
 # Numpy
-Complete Numpy code 
+Complete Numpy code and also with Exercises
